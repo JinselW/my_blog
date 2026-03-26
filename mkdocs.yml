@@ -9,6 +9,4 @@ theme:
   name: material
   language: zh
 
-# 开启搜索功能
-plugins:
-  - search
+
