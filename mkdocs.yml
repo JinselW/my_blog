@@ -1,0 +1,14 @@
+site_name: 我的小窝~
+site_description: 成长记录
+site_author: Jinsel
+
+nav:
+  - 首页: index.md
+
+theme:
+  name: material
+  language: zh
+
+# 开启搜索功能
+plugins:
+  - search
