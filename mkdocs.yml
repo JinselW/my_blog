@@ -6,9 +6,9 @@ site_url: https://jinsel.github.io/my-blog/
 
 # 导航栏
 nav:
-  - 前页: index.md
-  - 读书记录：
-    - 许三观卖血记: 许三观卖血记.md
+  - 首页: index.md
+  - 读书记录:
+      - 许三观卖血记: 许三观卖血记.md
    
 # 主题配置
 theme:
