@@ -1,0 +1,15 @@
+/* 让所有正文段落自动首行缩进 2 个汉字 */
+.md-typeset p {
+    text-indent: 2em;
+    text-align: justify; /* 可选：让文字两端对齐，更美观 */
+}
+
+/* 避免代码块、引用、列表里的段落也被缩进 */
+.md-typeset pre ~ p,
+.md-typeset blockquote ~ p,
+.md-typeset ul ~ p,
+.md-typeset ol ~ p,
+.md-typeset table ~ p,
+.md-typeset .admonition ~ p {
+    text-indent: 0;
+}
