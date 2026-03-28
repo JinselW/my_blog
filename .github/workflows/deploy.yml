@@ -17,7 +17,8 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install mkdocs mkdocs-material
+        pip install mkdocs-material
+        pip install mkdocs-git-revision-date-localized-plugin  # 新增这一行
     
     - name: Build site
       run: mkdocs build
