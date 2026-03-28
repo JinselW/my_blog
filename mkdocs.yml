@@ -46,10 +46,6 @@ plugins:
       lang: zh
   - tags:
       tags_file: tags.md
-  - git-revision-date-localized:
-      type: date
-      locale: zh
-      format: "%Y-%m-%d"
 
 # Markdown 扩展
 markdown_extensions:
