@@ -69,9 +69,6 @@ plugins:
   # 博客插件，关闭草稿模式（正式发布）
   - search
   # 内置搜索功能（必须开启）
-  - heti:
-      disable_serve: true
-  # 中文排版美化（自动空格、标点优化）
   - git-revision-date-localized:
       type: date
       locale: zh
