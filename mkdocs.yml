@@ -44,12 +44,11 @@ theme:
 plugins:
   - search:
       lang: zh
-  - tags:
-      tags_file: tags.md
+  - tags
   - git-revision-date-localized:
       type: date
       locale: zh
-      format: "%Y-%m-%d"
+      enable_creation_date: true
       
 # Markdown 扩展
 markdown_extensions:
