@@ -1,11 +1,6 @@
-# MkDocs 核心框架（基础依赖）
-mkdocs==1.5.3
-
-# Material 主题（核心主题，含基础扩展）
-mkdocs-material==9.4.8
-
-mkdocs-git-revision-date-localized-plugin==1.2.0
-
-# Markdown 扩展依赖（yml 中 markdown_extensions 用到的）
-pymdown-extensions==10.6
-pygments==2.16.1
+mkdocs>=1.6.0
+mkdocs-material>=9.5.0
+mkdocs-tags>=0.8.0
+mkdocs-git-revision-date-localized-plugin>=1.2.0
+pymdown-extensions>=10.6
+pygments>=2.16.1
