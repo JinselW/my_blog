@@ -1,6 +1,5 @@
 mkdocs>=1.6.0,<2.0.0
 mkdocs-material>=9.5.0
 mkdocs-git-revision-date-localized-plugin>=1.2.0
-mkdocs-heti>=0.6.0
 pymdown-extensions>=10.6
 pygments>=2.16.1
