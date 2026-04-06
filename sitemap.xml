@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://my-blog-alh.pages.dev/index.html</loc>
-         <lastmod>2026-04-05</lastmod>
+         <lastmod>2026-04-06</lastmod>
+    </url>
+    <url>
+         <loc>https://my-blog-alh.pages.dev/sys%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.html</loc>
+         <lastmod>2026-04-06</lastmod>
+    </url>
+    <url>
+         <loc>https://my-blog-alh.pages.dev/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.html</loc>
+         <lastmod>2026-04-06</lastmod>
     </url>
     <url>
          <loc>https://my-blog-alh.pages.dev/%E8%AE%B8%E4%B8%89%E8%A7%82%E5%8D%96%E8%A1%80%E8%AE%B0.html</loc>
-         <lastmod>2026-04-05</lastmod>
+         <lastmod>2026-04-06</lastmod>
     </url>
     <url>
          <loc>https://my-blog-alh.pages.dev/blog/index.html</loc>
-         <lastmod>2026-04-05</lastmod>
+         <lastmod>2026-04-06</lastmod>
     </url>
 </urlset>
