@@ -13,6 +13,9 @@ copyright: Copyright © 2025 Jinsel. Built with MkDocs.
 # 导航栏
 nav:
   - 首页: index.md
+  - 实验模板:
+    - sys报告模板: sys报告模板.md
+    - 数据结构报告模板: 数据结构报告模板.md
   - 读书记录:
       - 许三观卖血记: 许三观卖血记.md
    
